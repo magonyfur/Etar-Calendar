@@ -15,9 +15,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the app label used for alert notifications -->
-    <string name="standalone_app_label" translatable="false">Etar</string>
+    <string name="standalone_app_label" translatable="false">MagSec Calender</string>
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="app_label">Calendar</string>
+    <string name="app_label">MagSec Calendar</string>
 
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip/>
@@ -553,7 +553,7 @@
     <string name="preferences_default_snooze_delay_default" translatable="false">5</string>
 
     <!-- About dialog strings -->
-    <string name="app_authors" translatable="false">The Etar Project</string>
+    <string name="app_authors" translatable="false">MagSec</string>
     <string name="app_authors_url" translatable="false">https://github.com/Etar-Group/Etar-Calendar/graphs/contributors</string>
     <string name="app_changelog" translatable="false">https://github.com/Etar-Group/Etar-Calendar/releases</string>
     <string name="app_copyright">\u00a9 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Portions \u00a9 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
